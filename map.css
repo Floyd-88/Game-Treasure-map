@@ -1,0 +1,33 @@
+.main {
+display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+	display: flex;
+    justify-content: center;
+    height: 10vh;
+    padding: 0;
+    margin: 0;
+}
+.map {
+	display: flex;
+    height: 90vh;
+    flex-direction: column;
+    align-items: center;
+}
+#result {
+	display: flex;
+    width: 305px;
+    height: 5%;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+#mapX {
+	display: flex;
+    width: 65%;
+    height: 90%;
+
+}
