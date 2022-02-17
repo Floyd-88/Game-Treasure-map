@@ -61,3 +61,5 @@ function check() {
 	result.innerHTML = "Вы превысили кол-во попыток. Конец игры!";	
 		}
 }
+
+screen.lockOrientation('landscape');
